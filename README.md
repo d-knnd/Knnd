@@ -1,8 +1,4 @@
-- 👋 Hi, I’m @Knnd
-- 👀 I’m interested in developing mobile apps to help individuals
-- 🌱 I’m currently learning flutter framework and dart language
-- 💞️ I’m looking to collaborate on SDG projects in order to make a difference while building my skills 
-- 📫 How to reach me: by email kennedynnodim@gmail.com
+This is portfolio website source code in the following stack: HTML5, CSS3, JavaScript, Bootstrap
 
 <!---
 KennDim/KennDim is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
